@@ -1,4 +1,4 @@
-# CheckForOC
+# Sample GitHub API Call via Python
 This repository is planned to be a Python testing repository. To make it usefull I will created something for me to check if there is a new version of OpenCore available. Due to my laziness it will support me to get new versions. ;)
 
 ## Structure
